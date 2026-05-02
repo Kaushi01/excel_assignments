@@ -1,2 +1,2 @@
-# excel_assignment1_acciojob
-Assignment - Movie Ratings Dataset
+# excel_assignments_acciojob
+Assignments
